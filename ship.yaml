@@ -1,0 +1,9 @@
+--- # Ship
+query_params:
+ query: cruise liner
+ color: White
+ imageType: Photo
+ size: Large
+no_of_images: 200
+
+
